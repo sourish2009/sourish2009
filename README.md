@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sourish
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning webpage making and app building.
